@@ -1,16 +1,18 @@
-### Hi there 👋
+## Aaron Cleveland - @amclv 👋
 
 <!--
 **amclv/amclv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### Currently working on 🔭
+ - Newstack App - Allows user to view news based from there country, top news, language, category and source.
+### Continuosly learning 🌱
+- Swift
+- Objective-C
+- UI/UX
+- Sketch
+- Python
+- HTML/CSS
+### Let's chat! ☕️
+👉🏼 @ me on [Twitter](https://twitter.com/amclv0)
+👨🏻‍💻 Checkout my wesbite (WIP) [Aaron Cleveland](https://www.aaroncleveland.com/)
