@@ -1,3 +1,5 @@
+![image](/Chicago.jpg)
+
 ## Aaron Cleveland - @amclv 👋
 
 <!--
