@@ -5,15 +5,21 @@
 -->
 
 ### Currently working on 🔭
+ - ImageTranslate - Given you are in a new area and don't speak the language, you can take a picture of anything and it will translate it to your preferred language.
  - Newstack App - Allows user to view news based from there country, top news, language, category and source.
+ 
 ### Continuosly learning 🌱
 - Swift
 - Objective-C
 - UI/UX
 - Sketch
 - Python
-- HTML/CSS
+
+### Here is some blogs I wrote!
+- [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
+- [SceneDelegate Setup for Storyboard-free](https://medium.com/dev-genius/non-storyboard-setup-and-why-40927126f324)
+
+- [Check out more!](https://medium.com/@aaroncleveland)
+
 ### Let's chat! ☕️
 👉🏼 @ me on [Twitter](https://twitter.com/amclv0)
-
-👨🏻‍💻 Checkout my wesbite (WIP) [Aaron Cleveland](https://www.aaroncleveland.com/)
