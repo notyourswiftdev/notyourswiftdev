@@ -1,4 +1,4 @@
-![image](/Chicago.jpg)
+![image](/Chicago.jpeg)
 
 ## Aaron Cleveland - @amclv 👋
 
