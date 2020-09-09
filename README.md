@@ -6,7 +6,8 @@
 
 ### Currently working on 🔭
  - ImageTranslate - Given you are in a new area and don't speak the language, you can take a picture of anything and it will translate it to your preferred language.
- - Newstack App - Allows user to view news based from there country, top news, language, category and source. [AppStore](https://apps.apple.com/us/app/id1523790235)
+ - Newstack App - Allows user to view news based from there country, top news, language, category and source.
+ - [AppStore](https://apps.apple.com/us/app/id1523790235)
  
 ### Continuosly learning 🌱
 - Swift
