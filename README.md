@@ -26,3 +26,6 @@
 
 ### Let's chat! ☕️
 👉🏼 @ me on [Twitter](https://twitter.com/amclv0)
+
+### Some charts for your coffee!
+[![](https://github-readme-stats.vercel.app/api?username=amclv&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
