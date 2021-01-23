@@ -30,4 +30,4 @@
 <a href="https://twitter.com/amclv0"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 
 ### Some charts for your coffee!
-[![](https://github-readme-stats.vercel.app/api?username=amclv&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=amclv&count_private=true&theme=algolia)]()
