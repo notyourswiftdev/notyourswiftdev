@@ -5,10 +5,14 @@
 -->
 
 ### Currently working on 🔭
- - ImageTranslate - Given you are in a new area and don't speak the language, you can take a picture of anything and it will translate it to your preferred language.
- - Newstack App - Allows user to view news based from there country, top news, language, category and source.
- | [AppStore](https://apps.apple.com/us/app/id1523790235)
+- PepsiCo stuff
+- Medium Articles (check down below)
+- Learning Assembly and Python
+- Finishing up my Bach in Computer Science
  
+### Stopped / Finished Working 📲
+ - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
+
 ### Continuosly learning 🌱
 - Swift
 - Objective-C
