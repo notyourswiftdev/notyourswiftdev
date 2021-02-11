@@ -1,4 +1,4 @@
-## Aaron Cleveland 👋 - iOS Developer at PepsiCo
+## Aaron Cleveland 👋 - iOS Developer at PepsiCo and Marco
 
 <!--
 **amclv/amclv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,12 @@
 
 ### Currently working on 🔭
 - PepsiCo stuff
+- Marco stuff 
 - Medium Articles (check down below)
-- Learning Assembly and Python
-- Finishing up my Bach in Computer Science
+- Learning Python
+- Learning Databases
+- Learning Server-Side
+- Finishing up my bachelor's in Computer Science
  
 ### Stopped / Finished Working 📲
  - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
