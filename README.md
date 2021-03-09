@@ -1,4 +1,4 @@
-## Aaron Cleveland 👋 - iOS Developer at PepsiCo and Marco
+## Aaron Cleveland 👋 - iOS Developer at PepsiCo
 
 <!--
 **amclv/amclv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,6 @@
 
 ### Currently working on 🔭
 - PepsiCo stuff
-- Marco stuff 
 - Medium Articles (check down below)
 - Learning Python
 - Learning Databases
