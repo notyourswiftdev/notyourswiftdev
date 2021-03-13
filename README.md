@@ -5,30 +5,37 @@
 -->
 
 ### Currently working on 🔭
-- PepsiCo stuff
+- PepsiCo Apps
 - Medium Articles (check down below)
 - Learning Python
 - Learning Databases
 - Learning Server-Side
 - Finishing up my bachelor's in Computer Science
-- Working toward AWS Certificates
  
 ### Stopped / Finished Working 📲
  - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
 
-### Continuosly learning 🌱
+### Langauges 🌱
 - Swift
 - Objective-C
-- UI/UX
+- MySQL
+- Python
+- Node / JavaScript
+
+### Tools 💻
+- Photoshop
 - Sketch
-- Adobe Photoshop
+- Figma
+- Xcode
+- Firebase
+- AWS
+- Heroku
 
 ### Here is some blogs I wrote!
 - [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
 - [SceneDelegate Setup for Storyboard-free](https://medium.com/dev-genius/non-storyboard-setup-and-why-40927126f324)
 - [Line Segments with UIBezierPath](https://medium.com/@aaroncleveland/line-segments-with-uibezierpath-ac793982740b)
 - [Building a UITableView Programmatically](https://medium.com/dev-genius/building-a-uitableview-programmatically-1d4541104d26)
-
 
 ##### Checkout more
 <a href="https://medium.com/@aaroncleveland"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
