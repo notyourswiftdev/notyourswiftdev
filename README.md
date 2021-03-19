@@ -18,21 +18,16 @@
 ### Current AppStore Applications 📲
  - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
 
-### Langauges 🌱
-- Swift
-- Objective-C
-- MySQL
-- Python
-- Node / JavaScript
-
-### Tools 💻
-- Photoshop
-- Sketch
-- Figma
-- Xcode
-- Firebase
-- AWS
-- Heroku
+| Languages   | Tools       | Backend     | Frameworks  |
+|-------------|-------------|-------------|-------------|
+| Swift       | Photoshop   | AWS         | Node        |
+| Objective-C | Xcode       | Heroku      | Express     |
+| MySQL       | Sketch      | Firebase    | 
+| C#          | Figma       | Vapor       |
+| JavaScript  | Unity       |
+| Python      | Blender     |
+| HTML        |
+| CSS         |
 
 ### UI / UX Blogs
 - [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
