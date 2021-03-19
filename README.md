@@ -22,12 +22,12 @@
 |-------------|-------------|-------------|-------------|
 | Swift       | Photoshop   | AWS         | Node        |
 | Objective-C | Xcode       | Heroku      | Express     |
-| MySQL       | Sketch      | Firebase    | 
-| C#          | Figma       | Vapor       |
-| JavaScript  | Unity       |
-| Python      | Blender     |
-| HTML        |
-| CSS         |
+| MySQL       | Sketch      | Firebase
+| C#          | Figma       | Vapor
+| JavaScript  | Unity
+| Python      | Blender
+| HTML        | Git
+| CSS
 
 ### UI / UX Blogs
 - [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
