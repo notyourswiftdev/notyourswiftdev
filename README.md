@@ -20,10 +20,10 @@
 
 | Languages   | Tools       | Backend     | Frameworks  |
 |-------------|-------------|-------------|-------------|
-| Swift       | Photoshop   | AWS         | Node        |
+| Swift       | Photoshop   | Firebase    | Node        |
 | Objective-C | Xcode       | Heroku      | Express     |
-| MySQL       | Sketch      | Firebase
-| C#          | Figma       | Vapor
+| MySQL       | Sketch
+| C#          | Figma
 | JavaScript  | Unity
 | Python      | Blender
 | HTML        | Git
