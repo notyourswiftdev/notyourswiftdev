@@ -10,7 +10,7 @@
 ### Currently working on 🔭
 - PepsiCo Apps
 - Medium Articles (check down below)
-- Learning C# and Unity for 2D and 3D Game Development
+- Learning C/C# and Unity for 2D and 3D Game Development
 - Learning Databases
 - Learning Server-Side
 - Finishing up my bachelor's in Computer Science
