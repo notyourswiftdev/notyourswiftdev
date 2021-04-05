@@ -10,9 +10,9 @@
 ### Currently working on 🔭
 - PepsiCo Apps
 - Medium Articles (check down below)
-- Learning C/C# and Unity for 2D and 3D Game Development
 - Learning Databases
 - Learning Server-Side
+- Learning Python
 - Finishing up my bachelor's in Computer Science
  
 ### Current AppStore Applications 📲
@@ -22,11 +22,10 @@
 |-------------|-------------|-------------|-------------|
 | Swift       | Photoshop   | Firebase    | Node        |
 | Objective-C | Xcode       | Heroku      | Express     |
-| MySQL       | Sketch
-| C#          | Figma
-| JavaScript  | Unity
-| Python      | Blender
-| HTML        | Git
+| MySQL       | Sketch      |             | Django      |
+| JavaScript  | Git
+| Python      | Figma
+| HTML
 | CSS
 
 ### UI / UX Blogs
