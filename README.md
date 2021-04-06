@@ -1,4 +1,4 @@
-## Aaron Cleveland 👋 - iOS Developer at PepsiCo
+## Aaron Cleveland 👋 - iOS Developer
 <a href="https://medium.com/@aaroncleveland" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <a href="https://twitter.com/amclv0" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.youtube.com/channel/UCbkygu5ikQErEsqSj3HeI8Q" target="_blank"><img src="https://img.shields.io/badge/Youtube-%3C?style=for-the-badge&logo=youtube&color=red" height=25></a>
@@ -8,7 +8,6 @@
 -->
 
 ### Currently working on 🔭
-- PepsiCo Apps
 - Medium Articles (check down below)
 - Learning Databases
 - Learning Server-Side
@@ -20,13 +19,11 @@
 
 | Languages   | Tools       | Backend     | Frameworks  |
 |-------------|-------------|-------------|-------------|
-| Swift       | Photoshop   | Firebase    | Node        |
-| Objective-C | Xcode       | Heroku      | Express     |
-| MySQL       | Sketch      |             | Django      |
-| JavaScript  | Git
+| Swift       | Photoshop   | Firebase    | Django      |
+| Objective-C | Xcode       | Heroku
+| CSS         | Sketch
+| HTML        | Git
 | Python      | Figma
-| HTML
-| CSS
 
 ### UI / UX Blogs
 - [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
