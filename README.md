@@ -17,9 +17,9 @@
 ### Current AppStore Applications 📲
  - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
 
-| Languages   | Tools       | Backend     | Frameworks  |
-|-------------|-------------|-------------|-------------|
-| Swift       | Photoshop   | Firebase    | Django      |
+| Languages   | Tools       | Backend
+|-------------|-------------|-------------|
+| Swift       | Photoshop   | Firebase
 | Objective-C | Xcode       | Heroku
 | CSS         | Sketch
 | HTML        | Git
