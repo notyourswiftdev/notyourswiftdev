@@ -11,8 +11,7 @@
 - Medium Articles (check down below)
 - Learning Databases
 - Learning Server-Side
-- Learning Python
-- Finishing up my bachelor's in Computer Science
+- Learning SwiftUI
  
 ### Current AppStore Applications 📲
  - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
