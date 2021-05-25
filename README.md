@@ -26,7 +26,7 @@
 | HTML        | Git
 | Python      | Figma
 
-### UI / UX Blogs
+### Blogs
 - [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
 - [SceneDelegate Setup for Storyboard-free](https://medium.com/dev-genius/non-storyboard-setup-and-why-40927126f324)
 - [Line Segments with UIBezierPath](https://medium.com/@aaroncleveland/line-segments-with-uibezierpath-ac793982740b)
