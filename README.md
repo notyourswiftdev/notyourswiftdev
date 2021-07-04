@@ -6,9 +6,11 @@
 -->
 
 ### Currently working on 🔭
-- Learning Databases
-- Learning Server-Side
-- Learning SwiftUI
+- Learning
+  - Flutter
+  - Server-Side Swift (Vapor)
+  - SwiftUI
+  - Databases
  
 ### Current AppStore Applications 📲
  - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
