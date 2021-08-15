@@ -1,4 +1,4 @@
-## Aaron Cleveland 👋 - iOS Developer 
+## Aaron Cleveland 👋 - iOS Engineer
 <a href="https://twitter.com/amclv0" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> <a href="https://medium.com/@aaroncleveland" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=blue" height=30></a> <a href="https://www.youtube.com/channel/UCbkygu5ikQErEsqSj3HeI8Q" target="_blank"><img src="https://img.shields.io/badge/Youtube-%3C?style=for-the-badge&logo=youtube&color=red" height=30></a>
 
 <!--
@@ -6,17 +6,11 @@
 -->
 
 ### Currently working on 🔭
-- Learning
-  - Flutter
-  - Server-Side Swift (Vapor)
-  - SwiftUI
-  - Databases
+- Learning everything really. Just can't stop learning!
  
-### Current AppStore Applications 📲
- - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source.
-
-### SwiftUI Applications
-- Fructus App - [Source Code](https://github.com/amclv/Fructus)
+<!-- ### Current AppStore Applications 📲
+ - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source
+ -->
 
 ### Skills
 
