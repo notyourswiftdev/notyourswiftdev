@@ -11,6 +11,12 @@
 <!-- ### Current AppStore Applications 📲
  - Newstack App - [AppStore](https://apps.apple.com/us/app/id1523790235) - Allows user to view news based from there country, top news, language, category and source
  -->
+<!--  
+ ### Blogs
+- [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
+- [SceneDelegate Setup for Storyboard-free](https://medium.com/dev-genius/non-storyboard-setup-and-why-40927126f324)
+- [Line Segments with UIBezierPath](https://medium.com/@aaroncleveland/line-segments-with-uibezierpath-ac793982740b)
+- [Building a UITableView Programmatically](https://medium.com/dev-genius/building-a-uitableview-programmatically-1d4541104d26) -->
 
 ### Skills
 
@@ -21,12 +27,3 @@
 |          | Sketch
 |         | Git
 |       | Figma
-
-### Blogs
-- [Understanding Styles in Programmatic UI](https://medium.com/dev-genius/understanding-styles-in-programmatic-ui-f282acc143dd)
-- [SceneDelegate Setup for Storyboard-free](https://medium.com/dev-genius/non-storyboard-setup-and-why-40927126f324)
-- [Line Segments with UIBezierPath](https://medium.com/@aaroncleveland/line-segments-with-uibezierpath-ac793982740b)
-- [Building a UITableView Programmatically](https://medium.com/dev-genius/building-a-uitableview-programmatically-1d4541104d26)
-
-### Some charts for your coffee!
-[![](https://github-readme-stats.vercel.app/api?username=amclv&show_icons=true&theme=dracula)]()
