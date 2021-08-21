@@ -18,7 +18,7 @@
 - [Line Segments with UIBezierPath](https://medium.com/@aaroncleveland/line-segments-with-uibezierpath-ac793982740b)
 - [Building a UITableView Programmatically](https://medium.com/dev-genius/building-a-uitableview-programmatically-1d4541104d26) -->
 
-### Skills
+<!-- ### Skills
 
 | Languages   | Tools       | Backend
 |-------------|-------------|-------------|
@@ -26,4 +26,4 @@
 | Objective-C | Xcode       | Heroku
 |          | Sketch
 |         | Git
-|       | Figma
+|       | Figma -->
