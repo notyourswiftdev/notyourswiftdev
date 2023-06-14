@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on...Anything Swift and Kotlin related.<br>👯 I’m looking to collaborate on...Anything interesting! <br>🌱 I’m currently learning...Kotlin/Android Development<br>💬 Ask me anything via social media!<br>⚡ Fun fact...28 and I am already a silver fox! 
+🔭 I’m currently working on...Anything!<br>👯 I’m looking to collaborate on...Anything interesting! <br>💬 Ask me anything via social media!<br>⚡ Fun fact...28 and I am already a silver fox! 
 
 
 ## 🌐 Socials:
